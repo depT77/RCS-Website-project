@@ -1,0 +1,33 @@
+.compname {
+    font-size: 80px;
+    font-weight: bold;
+    position: absolute;
+    top: 100px;
+    left: 940px;
+    background: url(../images/Download.jpg);
+    background-size: cover;
+    -webkit-text-fill-color:transparent;
+    background-clip: border-box;
+    -webkit-background-clip:text;
+}
+
+div.gallery {
+    top: 22%;
+    left: 5%;
+    position: absolute;
+    z-index: 0;
+}
+
+.gallery:hover {
+    border: 2px red solid;
+}
+  
+   div.gallery1 {
+    top: 70%;
+    left: 5%;
+    position: absolute;
+} 
+
+.gallery1:hover {
+    border: 2px red solid;
+}
